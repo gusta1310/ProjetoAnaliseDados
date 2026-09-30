@@ -4,7 +4,7 @@
 Analisar o desempenho de vendas por região e produto.
 
 ## Prévia
-<img width="1000" height="300" alt="Visão Geral" src="https://github.com/user-attachments/assets/3719d941-0952-4318-ab03-da8f41753b50" />
+<img width="100%" alt="Visão Geral" src="https://github.com/user-attachments/assets/3719d941-0952-4318-ab03-da8f41753b50" />
 
 ## Ferramentas
 - Power BI
