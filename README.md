@@ -13,4 +13,4 @@ Analisar o desempenho dos vendedores, vendas, região e produto.
 - Power Query
 
 ## Como usar
-Baixe o arquivo `dashboard.pbix` e abra no Power BI Desktop.
+Baixe o arquivo `ProjetoAnalise.pbix` e abra no Power BI Desktop.
